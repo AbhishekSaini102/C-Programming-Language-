@@ -173,10 +173,4 @@ int main(){
 }
 
 
-//add bug-fix git
-//add second bug-fix git
-//add third bug-fix git
-//add fourth bug-fix git
-//add fifth bug-fix git
-//another fix message for light mode
-//another fix message for light mode updated
+// Name:Abhishek Saini Company:Google Age:24
